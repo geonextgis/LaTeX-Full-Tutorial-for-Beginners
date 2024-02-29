@@ -6,4 +6,6 @@ This comprehensive guide is designed for newcomers to LaTeX, a powerful typesett
 ## **Table of Contents**
 - Creating a LaTeX Document
 - Common Mathematical Notation
-- Brackets, Tables, and Arrays  
+- Brackets, Tables, and Arrays
+- Creating Lists
+- Text Document Formatting
